@@ -1,0 +1,13 @@
+References:
+
+1. Lecture notes from:
+https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2020/index.html
+
+2. Pulp linear equation solver
+https://www.geeksforgeeks.org/python-linear-programming-in-pulp/
+
+3. Policy Iteration pseudo Code( some idea from here)
+http://artint.info/html/ArtInt_228.html
+
+4. Numpy all close
+https://numpy.org/doc/stable/reference/generated/numpy.allclose.html

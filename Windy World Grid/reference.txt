@@ -1,0 +1,11 @@
+
+
+1. https://www.geeksforgeeks.org/expected-sarsa-in-reinforcement-learning/
+
+2. Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto, 2nd edition, MIT Press, 2018
+
+3. https://docs.scipy.org/doc/numpy-1.15.0/reference/routines.random.html
+
+4. https://matplotlib.org
+
+5. https://www.cse.iitb.ac.in/~shivaram/teaching/cs747-a2020/index.html 
