@@ -1,5 +1,5 @@
 
-1. for generating all plots and data.
+* 1. for generating all plots and data.
 	first delete everything inside figures and data folder(not folder) otherwise running program will update them
 
 	run: bash data_plot.sh
